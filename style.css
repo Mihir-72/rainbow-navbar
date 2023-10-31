@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.head{
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(238, 229, 229);
+  
+}
+.a{
+  font-size: 20px;
+  font-weight: bold;
+  padding: 10px;
+}
+.btn{
+  padding: 20px;
+}
+.content{
+  position: relative;
+  top: 299px;
+  left: 103px;
+}
+.content p{
+  margin-right: 348px;
+}
